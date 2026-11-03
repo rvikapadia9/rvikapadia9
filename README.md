@@ -2,7 +2,7 @@
 
 **QA Automation Engineer** at DevRepublic India · Ahmedabad, India · ISTQB® CTFL
 
-I build and maintain UI and API test automation with **Playwright + TypeScript** and run it in CI/CD on **Azure DevOps**. Nearly 4 years in QA, after starting my career in banking (Axis Bank, AU Small Finance Bank), which taught me to think hard about risk, data integrity and edge cases.
+I build and maintain UI and API test automation with **Playwright + TypeScript** and run it in CI/CD on **Azure DevOps**. Nearly 4 years in QA, focused on building reliable, maintainable test suites that catch real issues early.
 
 ### What I work on
 
@@ -24,8 +24,8 @@ I build and maintain UI and API test automation with **Playwright + TypeScript**
 
 | Repository | What it shows |
 |---|---|
-| [PlayWright_Exercise](https://github.com/rvikapadia9/PlayWright_Exercise) | 70+ Playwright specs: locator strategies, frames, dialogs, Shadow DOM, data-driven tests (JSON/CSV/Excel), tagging, tracing, visual testing and a custom reporter |
-| [TypeScript_Exercises](https://github.com/rvikapadia9/TypeScript_Exercises) | TypeScript fundamentals for test automation |
+| [PlayWright_Exercise](https://github.com/rvikapadia9/PlayWright_Exercise) | 70+ Playwright specs: locator strategies, frames, dialogs, Shadow DOM, data-driven tests (JSON/CSV/Excel), tagging, tracing, visual testing and Allure reporting |
+| [TypeScript_Exercises](https://github.com/rvikapadia9/TypeScript_Exercises) | 130+ TypeScript exercises in a structured day-by-day plan |
 | [Javascript-Exercise](https://github.com/rvikapadia9/Javascript-Exercise) | JavaScript fundamentals and practice problems |
 | [Java_Program](https://github.com/rvikapadia9/Java_Program) | Core Java programs |
 
